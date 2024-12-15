@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-15": 36
+      "2024-12-15": 44
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio.dashwave.io.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "1.39%",
-    "uptimeDay": "1.39%",
-    "uptimeWeek": "1.39%",
-    "uptimeMonth": "1.39%",
-    "uptimeYear": "1.39%",
+    "uptime": "1.14%",
+    "uptimeDay": "1.14%",
+    "uptimeWeek": "1.14%",
+    "uptimeMonth": "1.14%",
+    "uptimeYear": "1.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-15": 36
+      "2024-12-15": 44
     }
   },
   {
