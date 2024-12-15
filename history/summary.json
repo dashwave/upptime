@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 325,
-    "timeWeek": 325,
-    "timeMonth": 325,
-    "timeYear": 325,
+    "time": 247,
+    "timeDay": 247,
+    "timeWeek": 247,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 265,
-    "timeWeek": 265,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "time": 321,
+    "timeDay": 321,
+    "timeWeek": 321,
+    "timeMonth": 321,
+    "timeYear": 321,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 306,
-    "timeWeek": 306,
-    "timeMonth": 306,
-    "timeYear": 306,
+    "time": 319,
+    "timeDay": 319,
+    "timeWeek": 319,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 223,
-    "timeWeek": 223,
-    "timeMonth": 223,
-    "timeYear": 223,
+    "time": 191,
+    "timeDay": 191,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 186,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 264,
+    "timeDay": 264,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-15": 44
+      "2024-12-15": 53
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio.dashwave.io.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "1.14%",
-    "uptimeDay": "1.14%",
-    "uptimeWeek": "1.14%",
-    "uptimeMonth": "1.14%",
-    "uptimeYear": "1.14%",
+    "uptime": "0.92%",
+    "uptimeDay": "0.92%",
+    "uptimeWeek": "0.92%",
+    "uptimeMonth": "0.92%",
+    "uptimeYear": "0.92%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-15": 44
+      "2024-12-15": 53
     }
   },
   {
@@ -140,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 643,
-    "timeDay": 643,
-    "timeWeek": 643,
-    "timeMonth": 643,
-    "timeYear": 643,
+    "time": 699,
+    "timeDay": 699,
+    "timeWeek": 699,
+    "timeMonth": 699,
+    "timeYear": 699,
     "dailyMinutesDown": {}
   }
 ]
