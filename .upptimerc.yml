@@ -1,26 +1,31 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: dashwave # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Console
+    url: https://console.dashwave.io
+  - name: API
+    url: https://api.dashwave.io
+  - name: Vault
+    url: https://vault.dashwave.io
+  - name: Registry
+    url: https://registry.dashwave.io
+  - name: VPN
+    url: https://mysticvpn.dashwave.io
+  - name: Vector DB
+    url: http://chromadb-service.dashwave.io
+    port: 8000
+  - name: Minio
+    url: http://minio.dashwave.io
+    port: 9001
+  - name: Compext
+    url: https://compext.dashwave.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.dashwave.io
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
