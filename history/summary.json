@@ -95,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chromadb-service.dashwave.io.ico",
     "slug": "vector-db",
     "status": "down",
-    "uptime": "0.45%",
-    "uptimeDay": "0.45%",
-    "uptimeWeek": "0.45%",
-    "uptimeMonth": "0.45%",
-    "uptimeYear": "0.45%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-15": 1
+      "2024-12-15": 29
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio.dashwave.io.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "77.21%",
-    "uptimeDay": "77.21%",
-    "uptimeWeek": "77.21%",
-    "uptimeMonth": "77.21%",
-    "uptimeYear": "77.21%",
+    "uptime": "1.73%",
+    "uptimeDay": "1.73%",
+    "uptimeWeek": "1.73%",
+    "uptimeMonth": "1.73%",
+    "uptimeYear": "1.73%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-15": 0
+      "2024-12-15": 29
     }
   },
   {
