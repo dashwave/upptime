@@ -76,10 +76,10 @@
     "url": "https://mysticvpn.dashwave.io",
     "icon": "https://icons.duckduckgo.com/ip3/mysticvpn.dashwave.io.ico",
     "slug": "vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.27%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "98.25%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "98.27%",
     "uptimeYear": "98.27%",
     "time": 1773,
@@ -88,7 +88,7 @@
     "timeMonth": 1773,
     "timeYear": 1773,
     "dailyMinutesDown": {
-      "2024-12-22": 70,
+      "2024-12-22": 71,
       "2024-12-21": 16,
       "2024-12-20": 11,
       "2024-12-19": 80
@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-22": 1429,
+      "2024-12-22": 1436,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
@@ -138,7 +138,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-22": 1429,
+      "2024-12-22": 1436,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
