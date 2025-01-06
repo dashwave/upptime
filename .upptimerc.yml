@@ -14,11 +14,13 @@ sites:
   - name: VPN
     url: https://mysticvpn.dashwave.io
   - name: Vector DB
-    url: http://chromadb-service.dashwave.io
+    url: chromadb-service.dashwave.io
     port: 8000
+    check: "tcp-ping"
   - name: Minio
-    url: http://minio.dashwave.io
+    url: minio.dashwave.io
     port: 9001
+    check: "tcp-ping"
   - name: Compext
     url: https://compext.dashwave.io
 
