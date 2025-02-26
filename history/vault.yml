@@ -1,7 +1,7 @@
 url: https://vault.dashwave.io
-status: up
-code: 200
-responseTime: 775
-lastUpdated: 2025-02-25T23:06:46.619Z
+status: down
+code: 521
+responseTime: 217
+lastUpdated: 2025-02-26T11:41:14.595Z
 startTime: 2024-12-15T21:20:14.161Z
 generator: Upptime <https://github.com/upptime/upptime>
