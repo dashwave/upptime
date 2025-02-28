@@ -1,7 +1,7 @@
 url: https://api.dashwave.io
-status: down
-code: 502
-responseTime: 128
-lastUpdated: 2025-02-28T15:35:30.797Z
+status: up
+code: 200
+responseTime: 187
+lastUpdated: 2025-02-28T15:42:39.318Z
 startTime: 2024-12-15T21:20:13.580Z
 generator: Upptime <https://github.com/upptime/upptime>
